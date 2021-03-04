@@ -1,3 +1,2 @@
 # Automotives
-The repository for Automobiles sector data
-Under Progress
+The repository for Automobiles sector data... Still Under Progess
